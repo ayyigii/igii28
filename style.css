@@ -47,9 +47,9 @@ form input.equal{
     width: 145px;
 }
 form input.equal{
-        color: yellow;
+        color: #FFFF00;
 }
 
 form input.operator{
-	color: yellow;
+	color: #FFFF00;
 }
